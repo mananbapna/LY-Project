@@ -1,0 +1,2217 @@
+{
+  "sim_history": [
+    {
+      "round": 0,
+      "selected_count": 0,
+      "expected_churn_rate": 0.5408720040735561
+    },
+    {
+      "round": 1,
+      "selected_count": 23,
+      "expected_churn_rate": 0.5403566653532561,
+      "mean_risk_pre": 0.8258343151365909,
+      "mean_risk_post": 0.39869550276504123
+    },
+    {
+      "round": 2,
+      "selected_count": 23,
+      "expected_churn_rate": 0.5396137973406376,
+      "mean_risk_pre": 0.8209568484075916,
+      "mean_risk_post": 0.4427076151623489
+    },
+    {
+      "round": 3,
+      "selected_count": 23,
+      "expected_churn_rate": 0.5391141750532412,
+      "mean_risk_pre": 0.818976564416446,
+      "mean_risk_post": 0.4425662614310148
+    },
+    {
+      "round": 4,
+      "selected_count": 23,
+      "expected_churn_rate": 0.5384941576203919,
+      "mean_risk_pre": 0.8171960237864241,
+      "mean_risk_post": 0.4385907659277779
+    },
+    {
+      "round": 5,
+      "selected_count": 23,
+      "expected_churn_rate": 0.5380106573825623,
+      "mean_risk_pre": 0.8153454515598872,
+      "mean_risk_post": 0.4132544436712906
+    },
+    {
+      "round": 6,
+      "selected_count": 23,
+      "expected_churn_rate": 0.5373822358088416,
+      "mean_risk_pre": 0.8136476892062575,
+      "mean_risk_post": 0.4088222086860446
+    },
+    {
+      "round": 7,
+      "selected_count": 23,
+      "expected_churn_rate": 0.5366833704843041,
+      "mean_risk_pre": 0.8120452993592752,
+      "mean_risk_post": 0.40659232806346923
+    },
+    {
+      "round": 8,
+      "selected_count": 23,
+      "expected_churn_rate": 0.5360543732050126,
+      "mean_risk_pre": 0.8113333859812464,
+      "mean_risk_post": 0.41091304623742636
+    },
+    {
+      "round": 9,
+      "selected_count": 23,
+      "expected_churn_rate": 0.5354232197539356,
+      "mean_risk_pre": 0.810265430113547,
+      "mean_risk_post": 0.4069244287836177
+    },
+    {
+      "round": 10,
+      "selected_count": 23,
+      "expected_churn_rate": 0.5345053568886199,
+      "mean_risk_pre": 0.8093202097325838,
+      "mean_risk_post": 0.3880126156905723
+    }
+  ],
+  "selected_history": [
+    {
+      "round": 1,
+      "selected": [
+        {
+          "id_student": "646086",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9704204521099152,
+          "risk_post": 0.4852102260549576,
+          "reduction": 0.4852102260549576
+        },
+        {
+          "id_student": "141823",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.964802352830638,
+          "risk_post": 0.482401176415319,
+          "reduction": 0.482401176415319
+        },
+        {
+          "id_student": "599837",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9642319884041397,
+          "risk_post": 0.48211599420206985,
+          "reduction": 0.48211599420206985
+        },
+        {
+          "id_student": "687319",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9641965815351623,
+          "risk_post": 0.4487943055914051,
+          "reduction": 0.48209829076758115
+        },
+        {
+          "id_student": "520337",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.963637631080264,
+          "risk_post": 0.481818815540132,
+          "reduction": 0.481818815540132
+        },
+        {
+          "id_student": "645248",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9634327977066621,
+          "risk_post": 0.48171639885333106,
+          "reduction": 0.48171639885333106
+        },
+        {
+          "id_student": "553832",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9621367911841873,
+          "risk_post": 0.48106839559209363,
+          "reduction": 0.48106839559209363
+        },
+        {
+          "id_student": "390890",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9619285510280295,
+          "risk_post": 0.48096427551401477,
+          "reduction": 0.48096427551401477
+        },
+        {
+          "id_student": "551515",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9616351317203327,
+          "risk_post": 0.48081756586016633,
+          "reduction": 0.48081756586016633
+        },
+        {
+          "id_student": "530245",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9615958992055614,
+          "risk_post": 0.4807979496027807,
+          "reduction": 0.4807979496027807
+        },
+        {
+          "id_student": "516398",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9615315808352007,
+          "risk_post": 0.05538816984802504,
+          "reduction": 0.48076579041760037
+        },
+        {
+          "id_student": "2537934",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9613876413797683,
+          "risk_post": 0.48069382068988414,
+          "reduction": 0.48069382068988414
+        },
+        {
+          "id_student": "574664",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9612295237435156,
+          "risk_post": 0.4806147618717578,
+          "reduction": 0.4806147618717578
+        },
+        {
+          "id_student": "389362",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9609812792800142,
+          "risk_post": 0.4339097105388466,
+          "reduction": 0.4804906396400071
+        },
+        {
+          "id_student": "652664",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9605403433073233,
+          "risk_post": 0.48027017165366165,
+          "reduction": 0.48027017165366165
+        },
+        {
+          "id_student": "543010",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9603230596357549,
+          "risk_post": 0.45815414242865793,
+          "reduction": 0.48016152981787746
+        },
+        {
+          "id_student": "485532",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9602821858756108,
+          "risk_post": 0.4801410929378054,
+          "reduction": 0.4801410929378054
+        },
+        {
+          "id_student": "165178",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9600469940034163,
+          "risk_post": 0.44341933187221105,
+          "reduction": 0.48002349700170815
+        },
+        {
+          "id_student": "622967",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9599657903550142,
+          "risk_post": 0.4799828951775071,
+          "reduction": 0.4799828951775071
+        },
+        {
+          "id_student": "557220",
+          "resource": "sms",
+          "bucket": "low",
+          "cost": 1.0,
+          "risk_pre": 0.18220180980791129,
+          "risk_post": 0.16398162882712017,
+          "reduction": 0.018220180980791128
+        },
+        {
+          "id_student": "609969",
+          "resource": "sms",
+          "bucket": "low",
+          "cost": 1.0,
+          "risk_pre": 0.18082138682563947,
+          "risk_post": 0.11556220586542351,
+          "reduction": 0.018082138682563947
+        },
+        {
+          "id_student": "562489",
+          "resource": "sms",
+          "bucket": "low",
+          "cost": 1.0,
+          "risk_pre": 0.17618814596406232,
+          "risk_post": 0.15856933136765608,
+          "reduction": 0.017618814596406233
+        },
+        {
+          "id_student": "2581779",
+          "resource": "sms",
+          "bucket": "low",
+          "cost": 1.0,
+          "risk_pre": 0.1706713303234682,
+          "risk_post": 0.15360419729112137,
+          "reduction": 0.01706713303234682
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "selected": [
+        {
+          "id_student": "1804143",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9593851985746487,
+          "risk_post": 0.47969259928732433,
+          "reduction": 0.47969259928732433
+        },
+        {
+          "id_student": "565870",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9592880168745348,
+          "risk_post": 0.4796440084372674,
+          "reduction": 0.4796440084372674
+        },
+        {
+          "id_student": "684572",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9592591905016784,
+          "risk_post": 0.4796295952508392,
+          "reduction": 0.4796295952508392
+        },
+        {
+          "id_student": "513881",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9590195423737602,
+          "risk_post": 0.4795097711868801,
+          "reduction": 0.4795097711868801
+        },
+        {
+          "id_student": "686752",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9586826158763582,
+          "risk_post": 0.4793413079381791,
+          "reduction": 0.4793413079381791
+        },
+        {
+          "id_student": "578258",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9586599593477436,
+          "risk_post": 0.4580797935710494,
+          "reduction": 0.4793299796738718
+        },
+        {
+          "id_student": "465732",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9584222152400358,
+          "risk_post": 0.4792111076200179,
+          "reduction": 0.4792111076200179
+        },
+        {
+          "id_student": "649141",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9584074052572648,
+          "risk_post": 0.44612291280584576,
+          "reduction": 0.4792037026286324
+        },
+        {
+          "id_student": "466158",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9584052758689957,
+          "risk_post": 0.4435771866352281,
+          "reduction": 0.47920263793449785
+        },
+        {
+          "id_student": "697120",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9583627468166014,
+          "risk_post": 0.4791813734083007,
+          "reduction": 0.4791813734083007
+        },
+        {
+          "id_student": "592899",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9582935217529213,
+          "risk_post": 0.47914676087646063,
+          "reduction": 0.47914676087646063
+        },
+        {
+          "id_student": "171896",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9581792171497105,
+          "risk_post": 0.4499864164122882,
+          "reduction": 0.4790896085748553
+        },
+        {
+          "id_student": "620175",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9580322118562564,
+          "risk_post": 0.4790161059281282,
+          "reduction": 0.4790161059281282
+        },
+        {
+          "id_student": "91629",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9579908243275401,
+          "risk_post": 0.47899541216377006,
+          "reduction": 0.47899541216377006
+        },
+        {
+          "id_student": "609605",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9577876624485668,
+          "risk_post": 0.44955399816935027,
+          "reduction": 0.4788938312242834
+        },
+        {
+          "id_student": "618078",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9577584755694936,
+          "risk_post": 0.44396658333798955,
+          "reduction": 0.4788792377847468
+        },
+        {
+          "id_student": "508400",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9573735559100272,
+          "risk_post": 0.4786867779550136,
+          "reduction": 0.4786867779550136
+        },
+        {
+          "id_student": "689498",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9572560473698958,
+          "risk_post": 0.4786280236849479,
+          "reduction": 0.4786280236849479
+        },
+        {
+          "id_student": "261265",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9572211236100713,
+          "risk_post": 0.47861056180503564,
+          "reduction": 0.47861056180503564
+        },
+        {
+          "id_student": "589503",
+          "resource": "sms",
+          "bucket": "low",
+          "cost": 1.0,
+          "risk_pre": 0.1700445992730848,
+          "risk_post": 0.15304013934577632,
+          "reduction": 0.01700445992730848
+        },
+        {
+          "id_student": "39882",
+          "resource": "sms",
+          "bucket": "low",
+          "cost": 1.0,
+          "risk_pre": 0.16872997087804376,
+          "risk_post": 0.8067513900666932,
+          "reduction": 0.016872997087804376
+        },
+        {
+          "id_student": "626987",
+          "resource": "sms",
+          "bucket": "low",
+          "cost": 1.0,
+          "risk_pre": 0.16778834643981344,
+          "risk_post": 0.1510095117958321,
+          "reduction": 0.016778834643981343
+        },
+        {
+          "id_student": "644093",
+          "resource": "sms",
+          "bucket": "low",
+          "cost": 1.0,
+          "risk_pre": 0.16765979005756215,
+          "risk_post": 0.15089381105180594,
+          "reduction": 0.016765979005756215
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "selected": [
+        {
+          "id_student": "695976",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9571389770978787,
+          "risk_post": 0.4785694885489393,
+          "reduction": 0.4785694885489393
+        },
+        {
+          "id_student": "648335",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9571376680262683,
+          "risk_post": 0.47856883401313416,
+          "reduction": 0.47856883401313416
+        },
+        {
+          "id_student": "520153",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9570062304296619,
+          "risk_post": 0.4394728830047374,
+          "reduction": 0.47850311521483097
+        },
+        {
+          "id_student": "497872",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.956942263932785,
+          "risk_post": 0.4784711319663925,
+          "reduction": 0.4784711319663925
+        },
+        {
+          "id_student": "523817",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9567572145079872,
+          "risk_post": 0.4307606023753112,
+          "reduction": 0.4783786072539936
+        },
+        {
+          "id_student": "2482994",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9567419112637888,
+          "risk_post": 0.4401126387995805,
+          "reduction": 0.4783709556318944
+        },
+        {
+          "id_student": "2381745",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9565045165409776,
+          "risk_post": 0.4461105357794356,
+          "reduction": 0.4782522582704888
+        },
+        {
+          "id_student": "285050",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9564485975691283,
+          "risk_post": 0.47822429878456413,
+          "reduction": 0.47822429878456413
+        },
+        {
+          "id_student": "605459",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9564168851530526,
+          "risk_post": 0.4782084425765263,
+          "reduction": 0.4782084425765263
+        },
+        {
+          "id_student": "529705",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9563636094673763,
+          "risk_post": 0.47818180473368815,
+          "reduction": 0.47818180473368815
+        },
+        {
+          "id_student": "568763",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9562695237405981,
+          "risk_post": 0.4781347618702991,
+          "reduction": 0.4781347618702991
+        },
+        {
+          "id_student": "415399",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9561607763902277,
+          "risk_post": 0.47808038819511384,
+          "reduction": 0.47808038819511384
+        },
+        {
+          "id_student": "316061",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.95610195931661,
+          "risk_post": 0.478050979658305,
+          "reduction": 0.478050979658305
+        },
+        {
+          "id_student": "653747",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9560768670658114,
+          "risk_post": 0.4780384335329057,
+          "reduction": 0.4780384335329057
+        },
+        {
+          "id_student": "433508",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9559582849417951,
+          "risk_post": 0.47797914247089757,
+          "reduction": 0.47797914247089757
+        },
+        {
+          "id_student": "2637239",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9559556884547122,
+          "risk_post": 0.4779778442273561,
+          "reduction": 0.4779778442273561
+        },
+        {
+          "id_student": "644105",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9559170164401948,
+          "risk_post": 0.4779585082200974,
+          "reduction": 0.4779585082200974
+        },
+        {
+          "id_student": "1829051",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9558899436317305,
+          "risk_post": 0.47794497181586526,
+          "reduction": 0.47794497181586526
+        },
+        {
+          "id_student": "686164",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9558799183095954,
+          "risk_post": 0.4779399591547977,
+          "reduction": 0.4779399591547977
+        },
+        {
+          "id_student": "694009",
+          "resource": "sms",
+          "bucket": "low",
+          "cost": 1.0,
+          "risk_pre": 0.16702250806837993,
+          "risk_post": 0.15032025726154194,
+          "reduction": 0.016702250806837994
+        },
+        {
+          "id_student": "558440",
+          "resource": "sms",
+          "bucket": "low",
+          "cost": 1.0,
+          "risk_pre": 0.16662083860098587,
+          "risk_post": 0.8018833015580151,
+          "reduction": 0.016662083860098587
+        },
+        {
+          "id_student": "587459",
+          "resource": "sms",
+          "bucket": "low",
+          "cost": 1.0,
+          "risk_pre": 0.16607436262950212,
+          "risk_post": 0.1494669263665519,
+          "reduction": 0.016607436262950213
+        },
+        {
+          "id_student": "560425",
+          "resource": "sms",
+          "bucket": "low",
+          "cost": 1.0,
+          "risk_pre": 0.16507541999920516,
+          "risk_post": 0.14856787799928464,
+          "reduction": 0.01650754199992052
+        }
+      ]
+    },
+    {
+      "round": 4,
+      "selected": [
+        {
+          "id_student": "161811",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9557352831982846,
+          "risk_post": 0.4778676415991423,
+          "reduction": 0.4778676415991423
+        },
+        {
+          "id_student": "534750",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9556604428114284,
+          "risk_post": 0.4778302214057142,
+          "reduction": 0.4778302214057142
+        },
+        {
+          "id_student": "607108",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9555535722563964,
+          "risk_post": 0.4777767861281982,
+          "reduction": 0.4777767861281982
+        },
+        {
+          "id_student": "685663",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9554706020636505,
+          "risk_post": 0.45732637400166726,
+          "reduction": 0.47773530103182527
+        },
+        {
+          "id_student": "835603",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9554141732705407,
+          "risk_post": 0.44256597527361186,
+          "reduction": 0.47770708663527034
+        },
+        {
+          "id_student": "556521",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9554041964275257,
+          "risk_post": 0.4399655224767293,
+          "reduction": 0.47770209821376286
+        },
+        {
+          "id_student": "480667",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9553029204573973,
+          "risk_post": 0.47765146022869864,
+          "reduction": 0.47765146022869864
+        },
+        {
+          "id_student": "2010245",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.954913824256618,
+          "risk_post": 0.477456912128309,
+          "reduction": 0.477456912128309
+        },
+        {
+          "id_student": "504393",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9548560218307248,
+          "risk_post": 0.4774280109153624,
+          "reduction": 0.4774280109153624
+        },
+        {
+          "id_student": "649689",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9546881597690116,
+          "risk_post": 0.4773440798845058,
+          "reduction": 0.4773440798845058
+        },
+        {
+          "id_student": "491926",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9545743351848435,
+          "risk_post": 0.43471519339239884,
+          "reduction": 0.47728716759242173
+        },
+        {
+          "id_student": "590072",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9544682928907454,
+          "risk_post": 0.4488714308975032,
+          "reduction": 0.4772341464453727
+        },
+        {
+          "id_student": "46633",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9542956284932992,
+          "risk_post": 0.4771478142466496,
+          "reduction": 0.4771478142466496
+        },
+        {
+          "id_student": "678088",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9542633237149841,
+          "risk_post": 0.4456246259541117,
+          "reduction": 0.47713166185749206
+        },
+        {
+          "id_student": "679919",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.954085790661336,
+          "risk_post": 0.477042895330668,
+          "reduction": 0.477042895330668
+        },
+        {
+          "id_student": "2080916",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9540366050034732,
+          "risk_post": 0.44622940991793525,
+          "reduction": 0.4770183025017366
+        },
+        {
+          "id_student": "597166",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9539824889658219,
+          "risk_post": 0.446604632066741,
+          "reduction": 0.47699124448291097
+        },
+        {
+          "id_student": "554139",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9539162979881965,
+          "risk_post": 0.4769581489940983,
+          "reduction": 0.4769581489940983
+        },
+        {
+          "id_student": "1931810",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9539035391414009,
+          "risk_post": 0.47695176957070046,
+          "reduction": 0.47695176957070046
+        },
+        {
+          "id_student": "180974",
+          "resource": "sms",
+          "bucket": "low",
+          "cost": 1.0,
+          "risk_pre": 0.164681224303875,
+          "risk_post": 0.8329570699677716,
+          "reduction": 0.0164681224303875
+        },
+        {
+          "id_student": "557220",
+          "resource": "sms",
+          "bucket": "low",
+          "cost": 1.0,
+          "risk_pre": 0.16398162882712017,
+          "risk_post": 0.14758346594440816,
+          "reduction": 0.01639816288271202
+        },
+        {
+          "id_student": "693182",
+          "resource": "sms",
+          "bucket": "low",
+          "cost": 1.0,
+          "risk_pre": 0.16345138295628225,
+          "risk_post": 0.14710624466065403,
+          "reduction": 0.016345138295628225
+        },
+        {
+          "id_student": "518496",
+          "resource": "sms",
+          "bucket": "low",
+          "cost": 1.0,
+          "risk_pre": 0.1628688126147946,
+          "risk_post": 0.14658193135331515,
+          "reduction": 0.016286881261479463
+        }
+      ]
+    },
+    {
+      "round": 5,
+      "selected": [
+        {
+          "id_student": "559697",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9537574253808689,
+          "risk_post": 0.47687871269043447,
+          "reduction": 0.47687871269043447
+        },
+        {
+          "id_student": "191445",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9536834709888725,
+          "risk_post": 0.47684173549443626,
+          "reduction": 0.47684173549443626
+        },
+        {
+          "id_student": "648521",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9536817419048426,
+          "risk_post": 0.44669407447091136,
+          "reduction": 0.4768408709524213
+        },
+        {
+          "id_student": "574244",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.953480353961175,
+          "risk_post": 0.4767401769805875,
+          "reduction": 0.4767401769805875
+        },
+        {
+          "id_student": "476037",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.953465761179587,
+          "risk_post": 0.4767328805897935,
+          "reduction": 0.4767328805897935
+        },
+        {
+          "id_student": "1671761",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9533184405784654,
+          "risk_post": 0.4766592202892327,
+          "reduction": 0.4766592202892327
+        },
+        {
+          "id_student": "266762",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9532260916355354,
+          "risk_post": 0.4766130458177677,
+          "reduction": 0.4766130458177677
+        },
+        {
+          "id_student": "654325",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9530576476775853,
+          "risk_post": 0.47652882383879264,
+          "reduction": 0.47652882383879264
+        },
+        {
+          "id_student": "625578",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9530132904635037,
+          "risk_post": 0.47650664523175185,
+          "reduction": 0.47650664523175185
+        },
+        {
+          "id_student": "543845",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9530124259925727,
+          "risk_post": 0.47650621299628637,
+          "reduction": 0.47650621299628637
+        },
+        {
+          "id_student": "639533",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9529499688684473,
+          "risk_post": 0.47647498443422365,
+          "reduction": 0.47647498443422365
+        },
+        {
+          "id_student": "399794",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9528944350077576,
+          "risk_post": 0.44650226466261594,
+          "reduction": 0.4764472175038788
+        },
+        {
+          "id_student": "554691",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9528614221800304,
+          "risk_post": 0.4344823891100066,
+          "reduction": 0.4764307110900152
+        },
+        {
+          "id_student": "528822",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9527473670694856,
+          "risk_post": 0.4763736835347428,
+          "reduction": 0.4763736835347428
+        },
+        {
+          "id_student": "591083",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9526466870713755,
+          "risk_post": 0.4763233435356877,
+          "reduction": 0.4763233435356877
+        },
+        {
+          "id_student": "626422",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9525760036769038,
+          "risk_post": 0.4762880018384519,
+          "reduction": 0.4762880018384519
+        },
+        {
+          "id_student": "502531",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9523670893533592,
+          "risk_post": 0.44835516109070594,
+          "reduction": 0.4761835446766796
+        },
+        {
+          "id_student": "587434",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9523042294127162,
+          "risk_post": 0.4761521147063581,
+          "reduction": 0.4761521147063581
+        },
+        {
+          "id_student": "599651",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9522816174999896,
+          "risk_post": 0.4761408087499948,
+          "reduction": 0.4761408087499948
+        },
+        {
+          "id_student": "675063",
+          "resource": "sms",
+          "bucket": "low",
+          "cost": 1.0,
+          "risk_pre": 0.16263367963664777,
+          "risk_post": 0.14637031167298298,
+          "reduction": 0.016263367963664777
+        },
+        {
+          "id_student": "515676",
+          "resource": "sms",
+          "bucket": "low",
+          "cost": 1.0,
+          "risk_pre": 0.16170062468131496,
+          "risk_post": 0.14553056221318347,
+          "reduction": 0.016170062468131498
+        },
+        {
+          "id_student": "604096",
+          "resource": "sms",
+          "bucket": "low",
+          "cost": 1.0,
+          "risk_pre": 0.1608633496724942,
+          "risk_post": 0.14477701470524476,
+          "reduction": 0.01608633496724942
+        },
+        {
+          "id_student": "131051",
+          "resource": "sms",
+          "bucket": "low",
+          "cost": 1.0,
+          "risk_pre": 0.16042226198387974,
+          "risk_post": 0.14438003578549177,
+          "reduction": 0.016042226198387976
+        }
+      ]
+    },
+    {
+      "round": 6,
+      "selected": [
+        {
+          "id_student": "572909",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9522551031597772,
+          "risk_post": 0.459659111211191,
+          "reduction": 0.4761275515798886
+        },
+        {
+          "id_student": "693273",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.952226864919858,
+          "risk_post": 0.476113432459929,
+          "reduction": 0.476113432459929
+        },
+        {
+          "id_student": "506829",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9520585655080454,
+          "risk_post": 0.4760292827540227,
+          "reduction": 0.4760292827540227
+        },
+        {
+          "id_student": "540509",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9519710643043332,
+          "risk_post": 0.46953071996092877,
+          "reduction": 0.4759855321521666
+        },
+        {
+          "id_student": "540155",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9518497212143718,
+          "risk_post": 0.4590784907981252,
+          "reduction": 0.4759248606071859
+        },
+        {
+          "id_student": "694147",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9518068512558386,
+          "risk_post": 0.4604220987898004,
+          "reduction": 0.4759034256279193
+        },
+        {
+          "id_student": "322499",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9517190655444259,
+          "risk_post": 0.47585953277221293,
+          "reduction": 0.47585953277221293
+        },
+        {
+          "id_student": "2424257",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9517001977211155,
+          "risk_post": 0.47585009886055774,
+          "reduction": 0.47585009886055774
+        },
+        {
+          "id_student": "509737",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9516654388232357,
+          "risk_post": 0.47583271941161787,
+          "reduction": 0.47583271941161787
+        },
+        {
+          "id_student": "585301",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9516213288559816,
+          "risk_post": 0.45896940010212933,
+          "reduction": 0.4758106644279908
+        },
+        {
+          "id_student": "689527",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9514864998327216,
+          "risk_post": 0.45024239687600676,
+          "reduction": 0.4757432499163608
+        },
+        {
+          "id_student": "635034",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9514503849046022,
+          "risk_post": 0.4757251924523011,
+          "reduction": 0.4757251924523011
+        },
+        {
+          "id_student": "2237783",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.951335283975889,
+          "risk_post": 0.4756676419879445,
+          "reduction": 0.4756676419879445
+        },
+        {
+          "id_student": "552883",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9511669328305031,
+          "risk_post": 0.47558346641525157,
+          "reduction": 0.47558346641525157
+        },
+        {
+          "id_student": "1929219",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9511656075477157,
+          "risk_post": 0.44412095789984735,
+          "reduction": 0.47558280377385787
+        },
+        {
+          "id_student": "2322813",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9510411243074612,
+          "risk_post": 0.4755205621537306,
+          "reduction": 0.4755205621537306
+        },
+        {
+          "id_student": "226895",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9510243750326357,
+          "risk_post": 0.45743579382281685,
+          "reduction": 0.47551218751631785
+        },
+        {
+          "id_student": "607629",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9509073614362706,
+          "risk_post": 0.4754536807181353,
+          "reduction": 0.4754536807181353
+        },
+        {
+          "id_student": "530148",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9503463192178508,
+          "risk_post": 0.4751731596089254,
+          "reduction": 0.4751731596089254
+        },
+        {
+          "id_student": "596845",
+          "resource": "sms",
+          "bucket": "low",
+          "cost": 1.0,
+          "risk_pre": 0.15898670012628635,
+          "risk_post": 0.08214220562104702,
+          "reduction": 0.015898670012628634
+        },
+        {
+          "id_student": "597365",
+          "resource": "sms",
+          "bucket": "low",
+          "cost": 1.0,
+          "risk_pre": 0.15887658849970837,
+          "risk_post": 0.14298892964973753,
+          "reduction": 0.01588765884997084
+        },
+        {
+          "id_student": "2056486",
+          "resource": "sms",
+          "bucket": "low",
+          "cost": 1.0,
+          "risk_pre": 0.15864000889327223,
+          "risk_post": 0.14277600800394502,
+          "reduction": 0.015864000889327223
+        },
+        {
+          "id_student": "640848",
+          "resource": "sms",
+          "bucket": "low",
+          "cost": 1.0,
+          "risk_pre": 0.15859546383202547,
+          "risk_post": 0.1427359174488229,
+          "reduction": 0.015859546383202548
+        }
+      ]
+    },
+    {
+      "round": 7,
+      "selected": [
+        {
+          "id_student": "2688202",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9502390162204419,
+          "risk_post": 0.44863289010383567,
+          "reduction": 0.47511950811022097
+        },
+        {
+          "id_student": "575855",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9502334295682638,
+          "risk_post": 0.4348435875854241,
+          "reduction": 0.4751167147841319
+        },
+        {
+          "id_student": "571950",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.949947889382417,
+          "risk_post": 0.4484622392403926,
+          "reduction": 0.4749739446912085
+        },
+        {
+          "id_student": "292694",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9499312976901229,
+          "risk_post": 0.4134622218137319,
+          "reduction": 0.47496564884506143
+        },
+        {
+          "id_student": "2644664",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9498498422658099,
+          "risk_post": 0.47492492113290496,
+          "reduction": 0.47492492113290496
+        },
+        {
+          "id_student": "511657",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9498380394693364,
+          "risk_post": 0.4749190197346682,
+          "reduction": 0.4749190197346682
+        },
+        {
+          "id_student": "629231",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.949831814780394,
+          "risk_post": 0.474915907390197,
+          "reduction": 0.474915907390197
+        },
+        {
+          "id_student": "603410",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.949798219157626,
+          "risk_post": 0.474899109578813,
+          "reduction": 0.474899109578813
+        },
+        {
+          "id_student": "656164",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9497685113080842,
+          "risk_post": 0.4748842556540421,
+          "reduction": 0.4748842556540421
+        },
+        {
+          "id_student": "109577",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9497335114824303,
+          "risk_post": 0.44835576390444376,
+          "reduction": 0.4748667557412152
+        },
+        {
+          "id_student": "591440",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9496639921820433,
+          "risk_post": 0.47483199609102167,
+          "reduction": 0.47483199609102167
+        },
+        {
+          "id_student": "1986974",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9496182847895599,
+          "risk_post": 0.47480914239477995,
+          "reduction": 0.47480914239477995
+        },
+        {
+          "id_student": "587621",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9495870453201936,
+          "risk_post": 0.4550497522116804,
+          "reduction": 0.4747935226600968
+        },
+        {
+          "id_student": "690102",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9495806949454972,
+          "risk_post": 0.4747903474727486,
+          "reduction": 0.4747903474727486
+        },
+        {
+          "id_student": "629258",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9495505351319433,
+          "risk_post": 0.47477526756597166,
+          "reduction": 0.47477526756597166
+        },
+        {
+          "id_student": "622571",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9494799284852126,
+          "risk_post": 0.4747399642426063,
+          "reduction": 0.4747399642426063
+        },
+        {
+          "id_student": "576664",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9494431070041633,
+          "risk_post": 0.4747215535020817,
+          "reduction": 0.4747215535020817
+        },
+        {
+          "id_student": "97486",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9494376202245425,
+          "risk_post": 0.43601459308677076,
+          "reduction": 0.47471881011227124
+        },
+        {
+          "id_student": "683347",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9494179562901153,
+          "risk_post": 0.47470897814505764,
+          "reduction": 0.47470897814505764
+        },
+        {
+          "id_student": "562489",
+          "resource": "sms",
+          "bucket": "low",
+          "cost": 1.0,
+          "risk_pre": 0.15856933136765608,
+          "risk_post": 0.14271239823089046,
+          "reduction": 0.01585693313676561
+        },
+        {
+          "id_student": "2635829",
+          "resource": "sms",
+          "bucket": "low",
+          "cost": 1.0,
+          "risk_pre": 0.1585141313745075,
+          "risk_post": 0.14266271823705676,
+          "reduction": 0.01585141313745075
+        },
+        {
+          "id_student": "571808",
+          "resource": "sms",
+          "bucket": "low",
+          "cost": 1.0,
+          "risk_pre": 0.15773147967183956,
+          "risk_post": 0.1419583317046556,
+          "reduction": 0.015773147967183956
+        },
+        {
+          "id_student": "556406",
+          "resource": "sms",
+          "bucket": "low",
+          "cost": 1.0,
+          "risk_pre": 0.1572762071511299,
+          "risk_post": 0.1415485864360169,
+          "reduction": 0.01572762071511299
+        }
+      ]
+    },
+    {
+      "round": 8,
+      "selected": [
+        {
+          "id_student": "548190",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9493695421101898,
+          "risk_post": 0.4746847710550949,
+          "reduction": 0.4746847710550949
+        },
+        {
+          "id_student": "558052",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9493439045366008,
+          "risk_post": 0.4746719522683004,
+          "reduction": 0.4746719522683004
+        },
+        {
+          "id_student": "626516",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9493427103292428,
+          "risk_post": 0.4561904080951016,
+          "reduction": 0.4746713551646214
+        },
+        {
+          "id_student": "622787",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.949323518106462,
+          "risk_post": 0.474661759053231,
+          "reduction": 0.474661759053231
+        },
+        {
+          "id_student": "472060",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9493182775478384,
+          "risk_post": 0.4659721981248047,
+          "reduction": 0.4746591387739192
+        },
+        {
+          "id_student": "646628",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9492936605638738,
+          "risk_post": 0.4746468302819369,
+          "reduction": 0.4746468302819369
+        },
+        {
+          "id_student": "283055",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9492690036933066,
+          "risk_post": 0.4746345018466533,
+          "reduction": 0.4746345018466533
+        },
+        {
+          "id_student": "579448",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9492122934212601,
+          "risk_post": 0.4550739139288646,
+          "reduction": 0.47460614671063006
+        },
+        {
+          "id_student": "502763",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9491589610728003,
+          "risk_post": 0.47457948053640014,
+          "reduction": 0.47457948053640014
+        },
+        {
+          "id_student": "598070",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9491454202423394,
+          "risk_post": 0.4745727101211697,
+          "reduction": 0.4745727101211697
+        },
+        {
+          "id_student": "690548",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9491245986366763,
+          "risk_post": 0.47456229931833815,
+          "reduction": 0.47456229931833815
+        },
+        {
+          "id_student": "577934",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9490149762618564,
+          "risk_post": 0.4543597577309437,
+          "reduction": 0.4745074881309282
+        },
+        {
+          "id_student": "337048",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9489858778951026,
+          "risk_post": 0.44894020419853703,
+          "reduction": 0.4744929389475513
+        },
+        {
+          "id_student": "611405",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9488637867674289,
+          "risk_post": 0.47443189338371444,
+          "reduction": 0.47443189338371444
+        },
+        {
+          "id_student": "511350",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9488447288642072,
+          "risk_post": 0.44683914009637393,
+          "reduction": 0.4744223644321036
+        },
+        {
+          "id_student": "88758",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.948838692704809,
+          "risk_post": 0.4637793822223222,
+          "reduction": 0.4744193463524045
+        },
+        {
+          "id_student": "370839",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9487842766532208,
+          "risk_post": 0.4743921383266104,
+          "reduction": 0.4743921383266104
+        },
+        {
+          "id_student": "628666",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9486323980670658,
+          "risk_post": 0.4743161990335329,
+          "reduction": 0.4743161990335329
+        },
+        {
+          "id_student": "348708",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.948576503115179,
+          "risk_post": 0.4742882515575895,
+          "reduction": 0.4742882515575895
+        },
+        {
+          "id_student": "467822",
+          "resource": "sms",
+          "bucket": "low",
+          "cost": 1.0,
+          "risk_pre": 0.15723466812186496,
+          "risk_post": 0.14151120130967845,
+          "reduction": 0.015723466812186497
+        },
+        {
+          "id_student": "2204293",
+          "resource": "sms",
+          "bucket": "low",
+          "cost": 1.0,
+          "risk_pre": 0.15708824712980596,
+          "risk_post": 0.14137942241682536,
+          "reduction": 0.015708824712980598
+        },
+        {
+          "id_student": "683705",
+          "resource": "sms",
+          "bucket": "low",
+          "cost": 1.0,
+          "risk_pre": 0.1569733494202448,
+          "risk_post": 0.1412760144782203,
+          "reduction": 0.01569733494202448
+        },
+        {
+          "id_student": "581657",
+          "resource": "sms",
+          "bucket": "low",
+          "cost": 1.0,
+          "risk_pre": 0.15692848230729078,
+          "risk_post": 0.1412356340765617,
+          "reduction": 0.01569284823072908
+        }
+      ]
+    },
+    {
+      "round": 9,
+      "selected": [
+        {
+          "id_student": "656698",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9484765349340549,
+          "risk_post": 0.47423826746702746,
+          "reduction": 0.47423826746702746
+        },
+        {
+          "id_student": "649248",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9483743310130588,
+          "risk_post": 0.43214090735128347,
+          "reduction": 0.4741871655065294
+        },
+        {
+          "id_student": "384636",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9481955696873576,
+          "risk_post": 0.4740977848436788,
+          "reduction": 0.4740977848436788
+        },
+        {
+          "id_student": "656929",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9481166613915489,
+          "risk_post": 0.45372560567822545,
+          "reduction": 0.47405833069577447
+        },
+        {
+          "id_student": "609422",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.948102126733896,
+          "risk_post": 0.46341350335422676,
+          "reduction": 0.474051063366948
+        },
+        {
+          "id_student": "549424",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9481013355414145,
+          "risk_post": 0.47405066777070726,
+          "reduction": 0.47405066777070726
+        },
+        {
+          "id_student": "603348",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9480712058084687,
+          "risk_post": 0.47403560290423435,
+          "reduction": 0.47403560290423435
+        },
+        {
+          "id_student": "2256318",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9480575695750516,
+          "risk_post": 0.4740287847875258,
+          "reduction": 0.4740287847875258
+        },
+        {
+          "id_student": "2415962",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9479296299748465,
+          "risk_post": 0.47396481498742327,
+          "reduction": 0.47396481498742327
+        },
+        {
+          "id_student": "478744",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9478826394553802,
+          "risk_post": 0.4620793409609915,
+          "reduction": 0.4739413197276901
+        },
+        {
+          "id_student": "550098",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9478086816275735,
+          "risk_post": 0.47390434081378674,
+          "reduction": 0.47390434081378674
+        },
+        {
+          "id_student": "1970390",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9477963624843695,
+          "risk_post": 0.47389818124218475,
+          "reduction": 0.47389818124218475
+        },
+        {
+          "id_student": "680698",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.947771808143397,
+          "risk_post": 0.44661839552710625,
+          "reduction": 0.4738859040716985
+        },
+        {
+          "id_student": "632135",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.947584909658234,
+          "risk_post": 0.451465584105108,
+          "reduction": 0.473792454829117
+        },
+        {
+          "id_student": "420641",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9474887116912312,
+          "risk_post": 0.4737443558456156,
+          "reduction": 0.4737443558456156
+        },
+        {
+          "id_student": "2252437",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9474834428759904,
+          "risk_post": 0.45528206061072096,
+          "reduction": 0.4737417214379952
+        },
+        {
+          "id_student": "496154",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9474686251445233,
+          "risk_post": 0.4624078248636663,
+          "reduction": 0.4737343125722617
+        },
+        {
+          "id_student": "491474",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9474421178329802,
+          "risk_post": 0.4737210589164901,
+          "reduction": 0.4737210589164901
+        },
+        {
+          "id_student": "608997",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9474319253809824,
+          "risk_post": 0.4737159626904912,
+          "reduction": 0.4737159626904912
+        },
+        {
+          "id_student": "628367",
+          "resource": "sms",
+          "bucket": "low",
+          "cost": 1.0,
+          "risk_pre": 0.15687570764213532,
+          "risk_post": 0.14118813687792178,
+          "reduction": 0.015687570764213534
+        },
+        {
+          "id_student": "1671022",
+          "resource": "sms",
+          "bucket": "low",
+          "cost": 1.0,
+          "risk_pre": 0.15666170379824862,
+          "risk_post": 0.14099553341842375,
+          "reduction": 0.015666170379824863
+        },
+        {
+          "id_student": "604571",
+          "resource": "sms",
+          "bucket": "low",
+          "cost": 1.0,
+          "risk_pre": 0.1566228188873552,
+          "risk_post": 0.09582072100983703,
+          "reduction": 0.01566228188873552
+        },
+        {
+          "id_student": "606410",
+          "resource": "sms",
+          "bucket": "low",
+          "cost": 1.0,
+          "risk_pre": 0.15636047332947847,
+          "risk_post": 0.14072442599653062,
+          "reduction": 0.015636047332947847
+        }
+      ]
+    },
+    {
+      "round": 10,
+      "selected": [
+        {
+          "id_student": "647947",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9474000912009674,
+          "risk_post": 0.4671317411314099,
+          "reduction": 0.4737000456004837
+        },
+        {
+          "id_student": "654960",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.947361094028257,
+          "risk_post": 0.44703761231761846,
+          "reduction": 0.4736805470141285
+        },
+        {
+          "id_student": "2569051",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9473553973090475,
+          "risk_post": 0.47367769865452375,
+          "reduction": 0.47367769865452375
+        },
+        {
+          "id_student": "689346",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9473391627522156,
+          "risk_post": 0.4736695813761078,
+          "reduction": 0.4736695813761078
+        },
+        {
+          "id_student": "544071",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9472442412934365,
+          "risk_post": 0.45959692021678633,
+          "reduction": 0.47362212064671827
+        },
+        {
+          "id_student": "1945240",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9472078508358598,
+          "risk_post": 0.4526819239169327,
+          "reduction": 0.4736039254179299
+        },
+        {
+          "id_student": "655417",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.947207587530699,
+          "risk_post": 0.4736037937653495,
+          "reduction": 0.4736037937653495
+        },
+        {
+          "id_student": "172965",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9471117157362063,
+          "risk_post": 0.030512576556337902,
+          "reduction": 0.47355585786810317
+        },
+        {
+          "id_student": "1536591",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9469063086264862,
+          "risk_post": 0.4478033538002896,
+          "reduction": 0.4734531543132431
+        },
+        {
+          "id_student": "301298",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9468892869773851,
+          "risk_post": 0.47344464348869253,
+          "reduction": 0.47344464348869253
+        },
+        {
+          "id_student": "652744",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9468012928782378,
+          "risk_post": 0.4734006464391189,
+          "reduction": 0.4734006464391189
+        },
+        {
+          "id_student": "352083",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9466941181486949,
+          "risk_post": 0.47334705907434743,
+          "reduction": 0.47334705907434743
+        },
+        {
+          "id_student": "259182",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9466616957070904,
+          "risk_post": 0.45599467040697766,
+          "reduction": 0.4733308478535452
+        },
+        {
+          "id_student": "602856",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9466488514044605,
+          "risk_post": 0.47332442570223027,
+          "reduction": 0.47332442570223027
+        },
+        {
+          "id_student": "529211",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9465149159924732,
+          "risk_post": 0.4732574579962366,
+          "reduction": 0.4732574579962366
+        },
+        {
+          "id_student": "568307",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9464538052953174,
+          "risk_post": 0.4732269026476587,
+          "reduction": 0.4732269026476587
+        },
+        {
+          "id_student": "627295",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.946445030741598,
+          "risk_post": 0.45652432950674016,
+          "reduction": 0.473222515370799
+        },
+        {
+          "id_student": "551856",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9464353854317473,
+          "risk_post": 0.43701087291317703,
+          "reduction": 0.47321769271587366
+        },
+        {
+          "id_student": "266915",
+          "resource": "mentor_call",
+          "bucket": "high",
+          "cost": 10.0,
+          "risk_pre": 0.9464029220061382,
+          "risk_post": 0.44808828801483014,
+          "reduction": 0.4732014610030691
+        },
+        {
+          "id_student": "570807",
+          "resource": "sms",
+          "bucket": "low",
+          "cost": 1.0,
+          "risk_pre": 0.15610518942816137,
+          "risk_post": 0.14049467048534522,
+          "reduction": 0.015610518942816138
+        },
+        {
+          "id_student": "2685247",
+          "resource": "sms",
+          "bucket": "low",
+          "cost": 1.0,
+          "risk_pre": 0.15578249198282618,
+          "risk_post": 0.14020424278454355,
+          "reduction": 0.015578249198282618
+        },
+        {
+          "id_student": "2197016",
+          "resource": "sms",
+          "bucket": "low",
+          "cost": 1.0,
+          "risk_pre": 0.15572369050146304,
+          "risk_post": 0.14015132145131673,
+          "reduction": 0.015572369050146305
+        },
+        {
+          "id_student": "520002",
+          "resource": "sms",
+          "bucket": "low",
+          "cost": 1.0,
+          "risk_pre": 0.1556726980406574,
+          "risk_post": 0.14010542823659167,
+          "reduction": 0.01556726980406574
+        }
+      ]
+    }
+  ],
+  "params": {
+    "rounds": 10,
+    "budget_fraction": 0.01,
+    "min_budget_per_round": null,
+    "target_picks_per_round": null,
+    "cooldown_rounds": 2,
+    "bucket_cost": {
+      "low": 1.0,
+      "mid": 5.0,
+      "high": 10.0
+    }
+  }
+}
+
+
+
+
