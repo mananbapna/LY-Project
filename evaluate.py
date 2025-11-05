@@ -11,7 +11,7 @@ def smape(y_true, y_pred, eps=1e-6):
     y_pred = np.array(y_pred).astype(float)
     denom = (np.abs(y_true) + np.abs(y_pred)) + eps
     diff = np.abs(y_pred - y_true)
-    return 100.0 * np.mean(2.0 * diff / denom)
+    return 10.0 * np.mean(2.0 * diff / denom)
 
 def classification_metrics(y_true, y_prob, threshold=0.5):
     y_true = np.array(y_true).astype(int)
