@@ -43,6 +43,7 @@ BUCKET_RANGES = {
     "low":  {"min": 0.0, "max": 0.4},
 }
 BUCKET_COST = {"low": 1.0, "mid": 5.0, "high": 10.0}
+
 BUCKET_RESOURCE_PRIORITY = {
     "high": ["mentor_call", "assignment", "sms"],
     "mid":  ["assignment", "sms"],
@@ -50,7 +51,7 @@ BUCKET_RESOURCE_PRIORITY = {
 }
 
 # Budget strategy
-BUDGET_FRACTION = 0.010           # fraction of total potential cost
+BUDGET_FRACTION = 0.04         # fraction of total potential cost
 MIN_BUDGET_PER_ROUND = None     # override floor (None -> uses cheapest cost)
 TARGET_PICKS_PER_ROUND = None   # if set, ensures budget >= target * min_cost
 # ----------------------------------------
