@@ -50,7 +50,7 @@ BUCKET_RESOURCE_PRIORITY = {
 }
 
 # Budget strategy
-BUDGET_FRACTION = 0.010           # fraction of total potential cost
+BUDGET_FRACTION = 0.040           # fraction of total potential cost
 MIN_BUDGET_PER_ROUND = None     # override floor (None -> uses cheapest cost)
 TARGET_PICKS_PER_ROUND = None   # if set, ensures budget >= target * min_cost
 # ----------------------------------------
