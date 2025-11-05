@@ -11,13 +11,9 @@ env/
 
 # Data & outputs
 data/
-processed/
-outputs/
-*.zip
 
 # PyTorch
 *.pt
-*.pth
 
 # OS
 .DS_Store
