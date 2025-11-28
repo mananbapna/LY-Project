@@ -1,0 +1,422 @@
+[
+  {
+    "round": 1,
+    "total_selected": 500,
+    "total_cost": 500.0,
+    "method_counts": {
+      "sms": 500
+    },
+    "successes": 53,
+    "success_rate": 0.106,
+    "optimal_successes": 50.00000000000044,
+    "regret": -2.9999999999995595,
+    "cumulative_regret": -2.9999999999995595,
+    "cumulative_successes": 53,
+    "cumulative_optimal_successes": 50.00000000000044,
+    "action_accuracy": 1.0,
+    "agent_beliefs": {
+      "sms": 0.108,
+      "assignment": 0.5,
+      "mentor_call": 0.5
+    }
+  },
+  {
+    "round": 2,
+    "total_selected": 100,
+    "total_cost": 500.0,
+    "method_counts": {
+      "assignment": 100
+    },
+    "successes": 28,
+    "success_rate": 0.28,
+    "optimal_successes": 25.0,
+    "regret": -3.0,
+    "cumulative_regret": -5.9999999999995595,
+    "cumulative_successes": 81,
+    "cumulative_optimal_successes": 75.00000000000044,
+    "action_accuracy": 0.0,
+    "agent_beliefs": {
+      "sms": 0.108,
+      "assignment": 0.284,
+      "mentor_call": 0.5
+    }
+  },
+  {
+    "round": 3,
+    "total_selected": 500,
+    "total_cost": 500.0,
+    "method_counts": {
+      "sms": 500
+    },
+    "successes": 65,
+    "success_rate": 0.13,
+    "optimal_successes": 50.00000000000044,
+    "regret": -14.99999999999956,
+    "cumulative_regret": -20.99999999999912,
+    "cumulative_successes": 146,
+    "cumulative_optimal_successes": 125.00000000000088,
+    "action_accuracy": 1.0,
+    "agent_beliefs": {
+      "sms": 0.119,
+      "assignment": 0.284,
+      "mentor_call": 0.5
+    }
+  },
+  {
+    "round": 4,
+    "total_selected": 500,
+    "total_cost": 500.0,
+    "method_counts": {
+      "sms": 500
+    },
+    "successes": 55,
+    "success_rate": 0.11,
+    "optimal_successes": 50.00000000000044,
+    "regret": -4.9999999999995595,
+    "cumulative_regret": -25.99999999999868,
+    "cumulative_successes": 201,
+    "cumulative_optimal_successes": 175.0000000000013,
+    "action_accuracy": 1.0,
+    "agent_beliefs": {
+      "sms": 0.116,
+      "assignment": 0.284,
+      "mentor_call": 0.5
+    }
+  },
+  {
+    "round": 5,
+    "total_selected": 500,
+    "total_cost": 500.0,
+    "method_counts": {
+      "sms": 500
+    },
+    "successes": 61,
+    "success_rate": 0.122,
+    "optimal_successes": 50.00000000000044,
+    "regret": -10.99999999999956,
+    "cumulative_regret": -36.99999999999824,
+    "cumulative_successes": 262,
+    "cumulative_optimal_successes": 225.00000000000176,
+    "action_accuracy": 1.0,
+    "agent_beliefs": {
+      "sms": 0.117,
+      "assignment": 0.284,
+      "mentor_call": 0.5
+    }
+  },
+  {
+    "round": 6,
+    "total_selected": 500,
+    "total_cost": 500.0,
+    "method_counts": {
+      "sms": 500
+    },
+    "successes": 33,
+    "success_rate": 0.066,
+    "optimal_successes": 50.00000000000044,
+    "regret": 17.00000000000044,
+    "cumulative_regret": -19.999999999997797,
+    "cumulative_successes": 295,
+    "cumulative_optimal_successes": 275.0000000000022,
+    "action_accuracy": 1.0,
+    "agent_beliefs": {
+      "sms": 0.107,
+      "assignment": 0.284,
+      "mentor_call": 0.5
+    }
+  },
+  {
+    "round": 7,
+    "total_selected": 500,
+    "total_cost": 500.0,
+    "method_counts": {
+      "sms": 500
+    },
+    "successes": 43,
+    "success_rate": 0.086,
+    "optimal_successes": 50.00000000000044,
+    "regret": 7.0000000000004405,
+    "cumulative_regret": -12.999999999997357,
+    "cumulative_successes": 338,
+    "cumulative_optimal_successes": 325.0000000000027,
+    "action_accuracy": 1.0,
+    "agent_beliefs": {
+      "sms": 0.104,
+      "assignment": 0.284,
+      "mentor_call": 0.5
+    }
+  },
+  {
+    "round": 8,
+    "total_selected": 500,
+    "total_cost": 500.0,
+    "method_counts": {
+      "sms": 500
+    },
+    "successes": 47,
+    "success_rate": 0.094,
+    "optimal_successes": 50.00000000000044,
+    "regret": 3.0000000000004405,
+    "cumulative_regret": -9.999999999996916,
+    "cumulative_successes": 385,
+    "cumulative_optimal_successes": 375.0000000000031,
+    "action_accuracy": 1.0,
+    "agent_beliefs": {
+      "sms": 0.102,
+      "assignment": 0.284,
+      "mentor_call": 0.5
+    }
+  },
+  {
+    "round": 9,
+    "total_selected": 500,
+    "total_cost": 500.0,
+    "method_counts": {
+      "sms": 500
+    },
+    "successes": 52,
+    "success_rate": 0.104,
+    "optimal_successes": 50.00000000000044,
+    "regret": -1.9999999999995595,
+    "cumulative_regret": -11.999999999996476,
+    "cumulative_successes": 437,
+    "cumulative_optimal_successes": 425.0000000000036,
+    "action_accuracy": 1.0,
+    "agent_beliefs": {
+      "sms": 0.102,
+      "assignment": 0.284,
+      "mentor_call": 0.5
+    }
+  },
+  {
+    "round": 10,
+    "total_selected": 500,
+    "total_cost": 500.0,
+    "method_counts": {
+      "sms": 500
+    },
+    "successes": 54,
+    "success_rate": 0.108,
+    "optimal_successes": 50.00000000000044,
+    "regret": -3.9999999999995595,
+    "cumulative_regret": -15.999999999996035,
+    "cumulative_successes": 491,
+    "cumulative_optimal_successes": 475.00000000000404,
+    "action_accuracy": 1.0,
+    "agent_beliefs": {
+      "sms": 0.103,
+      "assignment": 0.284,
+      "mentor_call": 0.5
+    }
+  },
+  {
+    "round": 11,
+    "total_selected": 500,
+    "total_cost": 500.0,
+    "method_counts": {
+      "sms": 500
+    },
+    "successes": 43,
+    "success_rate": 0.086,
+    "optimal_successes": 50.00000000000044,
+    "regret": 7.0000000000004405,
+    "cumulative_regret": -8.999999999995595,
+    "cumulative_successes": 534,
+    "cumulative_optimal_successes": 525.0000000000044,
+    "action_accuracy": 1.0,
+    "agent_beliefs": {
+      "sms": 0.101,
+      "assignment": 0.284,
+      "mentor_call": 0.5
+    }
+  },
+  {
+    "round": 12,
+    "total_selected": 500,
+    "total_cost": 500.0,
+    "method_counts": {
+      "sms": 500
+    },
+    "successes": 59,
+    "success_rate": 0.118,
+    "optimal_successes": 50.00000000000044,
+    "regret": -8.99999999999956,
+    "cumulative_regret": -17.999999999995154,
+    "cumulative_successes": 593,
+    "cumulative_optimal_successes": 575.0000000000049,
+    "action_accuracy": 1.0,
+    "agent_beliefs": {
+      "sms": 0.103,
+      "assignment": 0.284,
+      "mentor_call": 0.5
+    }
+  },
+  {
+    "round": 13,
+    "total_selected": 500,
+    "total_cost": 500.0,
+    "method_counts": {
+      "sms": 500
+    },
+    "successes": 40,
+    "success_rate": 0.08,
+    "optimal_successes": 50.00000000000044,
+    "regret": 10.00000000000044,
+    "cumulative_regret": -7.999999999994714,
+    "cumulative_successes": 633,
+    "cumulative_optimal_successes": 625.0000000000053,
+    "action_accuracy": 1.0,
+    "agent_beliefs": {
+      "sms": 0.101,
+      "assignment": 0.284,
+      "mentor_call": 0.5
+    }
+  },
+  {
+    "round": 14,
+    "total_selected": 500,
+    "total_cost": 500.0,
+    "method_counts": {
+      "sms": 500
+    },
+    "successes": 50,
+    "success_rate": 0.1,
+    "optimal_successes": 50.00000000000044,
+    "regret": 4.405364961712621e-13,
+    "cumulative_regret": -7.999999999994273,
+    "cumulative_successes": 683,
+    "cumulative_optimal_successes": 675.0000000000058,
+    "action_accuracy": 1.0,
+    "agent_beliefs": {
+      "sms": 0.101,
+      "assignment": 0.284,
+      "mentor_call": 0.5
+    }
+  },
+  {
+    "round": 15,
+    "total_selected": 500,
+    "total_cost": 500.0,
+    "method_counts": {
+      "sms": 500
+    },
+    "successes": 57,
+    "success_rate": 0.114,
+    "optimal_successes": 50.00000000000044,
+    "regret": -6.9999999999995595,
+    "cumulative_regret": -14.999999999993832,
+    "cumulative_successes": 740,
+    "cumulative_optimal_successes": 725.0000000000063,
+    "action_accuracy": 1.0,
+    "agent_beliefs": {
+      "sms": 0.102,
+      "assignment": 0.284,
+      "mentor_call": 0.5
+    }
+  },
+  {
+    "round": 16,
+    "total_selected": 500,
+    "total_cost": 500.0,
+    "method_counts": {
+      "sms": 500
+    },
+    "successes": 50,
+    "success_rate": 0.1,
+    "optimal_successes": 50.00000000000044,
+    "regret": 4.405364961712621e-13,
+    "cumulative_regret": -14.999999999993392,
+    "cumulative_successes": 790,
+    "cumulative_optimal_successes": 775.0000000000067,
+    "action_accuracy": 1.0,
+    "agent_beliefs": {
+      "sms": 0.102,
+      "assignment": 0.284,
+      "mentor_call": 0.5
+    }
+  },
+  {
+    "round": 17,
+    "total_selected": 500,
+    "total_cost": 500.0,
+    "method_counts": {
+      "sms": 500
+    },
+    "successes": 45,
+    "success_rate": 0.09,
+    "optimal_successes": 50.00000000000044,
+    "regret": 5.0000000000004405,
+    "cumulative_regret": -9.999999999992951,
+    "cumulative_successes": 835,
+    "cumulative_optimal_successes": 825.0000000000072,
+    "action_accuracy": 1.0,
+    "agent_beliefs": {
+      "sms": 0.101,
+      "assignment": 0.284,
+      "mentor_call": 0.5
+    }
+  },
+  {
+    "round": 18,
+    "total_selected": 500,
+    "total_cost": 500.0,
+    "method_counts": {
+      "sms": 500
+    },
+    "successes": 51,
+    "success_rate": 0.102,
+    "optimal_successes": 50.00000000000044,
+    "regret": -0.9999999999995595,
+    "cumulative_regret": -10.99999999999251,
+    "cumulative_successes": 886,
+    "cumulative_optimal_successes": 875.0000000000076,
+    "action_accuracy": 1.0,
+    "agent_beliefs": {
+      "sms": 0.101,
+      "assignment": 0.284,
+      "mentor_call": 0.5
+    }
+  },
+  {
+    "round": 19,
+    "total_selected": 500,
+    "total_cost": 500.0,
+    "method_counts": {
+      "sms": 500
+    },
+    "successes": 50,
+    "success_rate": 0.1,
+    "optimal_successes": 50.00000000000044,
+    "regret": 4.405364961712621e-13,
+    "cumulative_regret": -10.99999999999207,
+    "cumulative_successes": 936,
+    "cumulative_optimal_successes": 925.0000000000081,
+    "action_accuracy": 1.0,
+    "agent_beliefs": {
+      "sms": 0.101,
+      "assignment": 0.284,
+      "mentor_call": 0.5
+    }
+  },
+  {
+    "round": 20,
+    "total_selected": 500,
+    "total_cost": 500.0,
+    "method_counts": {
+      "sms": 500
+    },
+    "successes": 52,
+    "success_rate": 0.104,
+    "optimal_successes": 50.00000000000044,
+    "regret": -1.9999999999995595,
+    "cumulative_regret": -12.99999999999163,
+    "cumulative_successes": 988,
+    "cumulative_optimal_successes": 975.0000000000085,
+    "action_accuracy": 1.0,
+    "agent_beliefs": {
+      "sms": 0.101,
+      "assignment": 0.284,
+      "mentor_call": 0.5
+    }
+  }
+]
