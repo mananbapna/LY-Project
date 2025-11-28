@@ -1,0 +1,13 @@
+{
+  "rounds": 20,
+  "final_cumulative_successes": 507,
+  "final_cumulative_optimal_successes": 552.0,
+  "final_cumulative_regret": 45.0,
+  "avg_regret_per_round": 2.25,
+  "policy_efficiency": 0.9184782608695652,
+  "avg_success_rate": 0.4610202977437458,
+  "avg_action_accuracy": 0.0,
+  "total_cost": 0.0,
+  "reward_per_cost": 0.0,
+  "epsilon": null
+}

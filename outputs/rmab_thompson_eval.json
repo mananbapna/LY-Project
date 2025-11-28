@@ -1,0 +1,35 @@
+{
+  "rounds": 20,
+  "final_cumulative_successes": 988,
+  "final_cumulative_optimal_successes": 975.0000000000085,
+  "final_cumulative_regret": -12.99999999999163,
+  "avg_regret_per_round": -0.6499999999995815,
+  "policy_efficiency": 1.0133333333333245,
+  "avg_success_rate": 0.11,
+  "avg_action_accuracy": 0.95,
+  "total_cost": 10000.0,
+  "reward_per_cost": 0.0988,
+  "belief_summary": [
+    {
+      "resource": "sms",
+      "true_efficacy": 0.1,
+      "learned_belief": 0.101,
+      "abs_error": 0.0010000000000000009,
+      "belief_accuracy": 0.999
+    },
+    {
+      "resource": "assignment",
+      "true_efficacy": 0.25,
+      "learned_belief": 0.284,
+      "abs_error": 0.033999999999999975,
+      "belief_accuracy": 0.966
+    },
+    {
+      "resource": "mentor_call",
+      "true_efficacy": 0.5,
+      "learned_belief": 0.5,
+      "abs_error": 0.0,
+      "belief_accuracy": 1.0
+    }
+  ]
+}
